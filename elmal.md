@@ -1,4 +1,4 @@
-# Jak ukryć produkty z danej kategorii?
+# Ukrywanie produktów z kategorii X?
 Zanim przejdziesz do dalszego kroku dla ułatwienia całego procesu musisz zmienić ilość pozycji wyświetlanych na liście produktów w panelu administracyjnym.
 
 Aby zmienić tą liczbę przejdź: `Produkty` -> `Wszystkie Produkty`.
