@@ -1,8 +1,7 @@
 # Jak ukryć produkty z danej kategorii?
 Zanim przejdziesz do dalszego kroku dla ułatwienia całego procesu musisz zmienić ilość pozycji wyświetlanych na liście produktów w panelu administracyjnym.
 
-Aby zmienić tą liczbę:
-Przejdź: `Produkty` -> `Wszystkie Produkty`.
+Aby zmienić tą liczbę przejdź: `Produkty` -> `Wszystkie Produkty`.
 
 Zlokalizuj w prawym górnym rogu ekranu `Opcje ekranu` i kliknij.
 
@@ -13,6 +12,8 @@ Wybierz interesującą cię kategorię z listy rozwijanej znajdującej się nad 
 Po przefiltrowaniu wpisów Użyj opcji zaznacz wszystkie wpisy (w tabeli listy wpisów pierszy checkbox/ kwadracik), a następnie z listy `Masowe działania` wybierz `Edytuj` i zatwierdź klikając `Zastosuj`.
 
 Pojawi się okno edycji masowej, a w nim (3 kolumna) opcja zmiany stanu edytowanych produktów - wybierz `Szkic` i zatwierdź klikając `Zaktualizuj`.
+
+## Gotowe!
 
 
 # Pytanie 2
