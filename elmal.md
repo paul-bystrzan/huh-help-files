@@ -18,24 +18,9 @@ Pojawi się okno edycji masowej, a w nim (3 kolumna) opcja zmiany stanu edytowan
 ## Gotowe!
 
 
-# Pytanie 2
+# Jak wygląda Process Zakupowy?
 
 dsfsdfsdf
 sdfsdfsd
 sdfsdfsdf
 sdf
-
-# Pytanie 3
-
-dsfsdfsdf
-sdfsdfsd
-sdfsdfsdf
-sdf
-
-# Pytanie 4
-
-dsfsdfsdf
-sdfsdfsd
-sdfsdfsdf
-sdf
-
