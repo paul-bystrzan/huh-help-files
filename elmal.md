@@ -1,3 +1,9 @@
+# Dodawanie Nowego produktu
+asdasdasd
+
+# Dodawanie i Edycja Kategorii
+asdasdasd
+
 # Ukrywanie produktów z danej kategorii?
 Zanim przejdziesz do dalszego kroku dla ułatwienia całego procesu musisz zmienić ilość pozycji wyświetlanych na liście produktów w panelu administracyjnym.
 
