@@ -23,4 +23,3 @@ Pojawi się okno edycji masowej, a w nim (3 kolumna) opcja zmiany stanu edytowan
 dsfsdfsdf
 sdfsdfsd
 sdfsdfsdf
-sdf
