@@ -1,10 +1,10 @@
 # Dodawanie Nowego produktu
-asdasdasd
+Tutaj mogą pojawić się informacje dodatkowe
 
 # Dodawanie i Edycja Kategorii
-asdasdasd
+Tutaj mogą pojawić się informacje dodatkowe
 
-# Ukrywanie produktów z danej kategorii?
+# 🔥 Ukrywanie produktów z danej kategorii?
 Zanim przejdziesz do dalszego kroku dla ułatwienia całego procesu musisz zmienić ilość pozycji wyświetlanych na liście produktów w panelu administracyjnym.
 
 Aby zmienić tą liczbę przejdź: `Produkty` -> `Wszystkie Produkty`.
@@ -26,6 +26,4 @@ Pojawi się okno edycji masowej, a w nim (3 kolumna) opcja zmiany stanu edytowan
 
 # Jak wygląda Process Zakupowy?
 
-dsfsdfsdf
-sdfsdfsd
-sdfsdfsdf
+Tutaj mogą pojawić się informacje dodatkowe
